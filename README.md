@@ -22,7 +22,8 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 
 
 
-## Project Info
+
+____________________________________________________________________
 
 This is the first project from Udacity's computer vision nanodegree
 
