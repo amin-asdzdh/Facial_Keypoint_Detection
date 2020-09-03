@@ -6,7 +6,7 @@
 
 
 
-![readme](.\images\readme.JPG)
+![readme](./images/readme.JPG)
 
 ## Project Overview
 
