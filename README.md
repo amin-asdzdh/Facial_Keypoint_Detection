@@ -1,14 +1,20 @@
-[//]: # (Image References)
+[//]: # "Image References"
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
 
 # Facial Keypoint Detection
 
+
+
+![image-20200904094115047](C:\Users\amina\AppData\Roaming\Typora\typora-user-images\image-20200904094115047.png)
+
+
+
 ## Project Overview
 
-This project combines computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition.
+This project combines computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications, including facial tracking, facial pose recognition, facial filters, and emotion recognition.
 
-![Facial Keypoint Detection][image1]
+
 
 The project is broken up into a few main parts in four Python notebooks:
 
