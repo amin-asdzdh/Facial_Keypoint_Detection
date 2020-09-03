@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+data
+saved_models
+||||||| empty tree
+=======
+data/*
+!data/.gitkeep
+
+saved_models/*
+!saved_models/.gitkeep
+
+>>>>>>> 847f7f007eb29aced13d5ebbe28f3afab58034cf
