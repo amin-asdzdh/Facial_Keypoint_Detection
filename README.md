@@ -6,9 +6,7 @@
 
 
 
-![image-20200904094115047](C:\Users\amina\AppData\Roaming\Typora\typora-user-images\image-20200904094115047.png)
-
-
+![readme](.\images\readme.JPG)
 
 ## Project Overview
 
