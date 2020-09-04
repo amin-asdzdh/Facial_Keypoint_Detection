@@ -29,7 +29,7 @@ __Notebook 4__ : Fun Filters and Keypoint Uses
 
 ____________________________________________________________________
 
-This is the first project from Udacity's computer vision nanodegree
+This is a project from Udacity's computer vision nanodegree
 
 
 LICENSE: This project is licensed under the terms of the MIT license.
